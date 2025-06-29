@@ -20,7 +20,8 @@ Missed a day on GitHub? Don’t worry — this Node.js script helps you bounce b
 
 * Name it: `github-streak-back`
 * Set it as **Private**
-* Do **not** initialize with README or `.gitignore`
+* ✅ Initialize with a README.md
+* ❌ Do not add a .gitignore file
 
 
 ### 2. **Clone the Repository Using SSH**
