@@ -110,9 +110,9 @@ I had a **200+ day streak**, and it broke **accidentally**, which left me really
 
 But the best way to maintain your streak is:
 
-* ✅ Contribute consistently
-* ✅ Set reminders if needed
-* ✅ Avoid last-minute pushes
+- 🧑‍💻 Contribute consistently
+- ⏰ Set reminders if needed
+- ⚡ Avoid last-minute pushes
 
 ---
 
