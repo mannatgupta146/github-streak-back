@@ -1,31 +1,17 @@
 # 📈 GitHub Streak Back
 
-Easily recover a missed GitHub contribution day using a backdated Git commit with Node.js.
+Missed a day on GitHub? Don’t worry — this Node.js script helps you bounce back with a clean, backdated commit. It’s not a hack, just an honest fix for those accidental slip-ups.
 
----
 
 ## 🛠️ Prerequisites
 
-Before starting, make sure the following are installed and set up:
-
-- ✅ [Node.js](https://nodejs.org/) installed on your system
-
-- ✅ Git installed
-
-- ✅ An SSH key connected to your GitHub account ([Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh))
-
-- ✅ Your Git config includes the email associated with your GitHub account:
-
-  ```bash
-  git config --global user.email "your-email@example.com"
-  ```
-
-  **OR**
-
-- ✅ Connect your GitHub account directly to **VS Code** for easier Git integration:
-
-  * Open VS Code → Go to **Source Control tab** → Click **Sign in to GitHub**
-  * Authorize and sync your account — it will handle commits and pushes easily
+| Requirement                              | Description                                                                                                   |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ✅ Node.js                                | Install from [nodejs.org](https://nodejs.org/)                                                                |
+| ✅ Git                                    | Make sure Git is installed and accessible from the terminal                                                   |
+| ✅ SSH Key for GitHub                     | Connect via SSH – [GitHub SSH Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) |
+| ✅ Git Config Email                       | Set your Git email to match your GitHub account:<br>`git config --global user.email "your-email@example.com"` |
+| ✅ GitHub Connected to VS Code (Optional) | Sign in via **Source Control** tab → **Sign in to GitHub** → Authorize → Git integration made easy            |
 
 
 ## 🔧 Step-by-Step Setup
@@ -81,6 +67,18 @@ This will:
 ✅ Your GitHub contribution square for yesterday should turn green !
 
 > ⏳ *Note: It may take a few hours or even a couple of days to reflect on your profile. Mine took 2 days. For any doubts, feel free to follow and contact me.*
+
+
+Got it! Here's the updated version without mentioning the creator's name:
+
+
+## 🙏 Special Thanks
+
+This video really helped me understand how to make this work.
+
+🎥 **Watch it here**:
+[https://youtu.be/\_U52wzAJ2QE](https://youtu.be/_U52wzAJ2QE?si=M6QOhyzAgYgIX6JI)
+If you're facing any problems or want a better understanding, check it out!
 
 
 ## 📁 Project Structure
