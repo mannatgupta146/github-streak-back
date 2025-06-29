@@ -64,22 +64,21 @@ This will:
 * Commit it with the correct backdated timestamp
 * Push it to GitHub
 
+### 7. **Make Repository Public**
+
+After the commit is pushed and your streak is updated:
+
+* Go to your repository on GitHub
+* Click on **Settings → General**
+* Scroll down to **"Danger Zone"**
+* Click **Change repository visibility → Make public**
+
+> ⚠️ Only do this **after your commit is pushed**, and only if you're comfortable making the repo public.
+
+
 ✅ Your GitHub contribution square for yesterday should turn green !
 
 > ⏳ *Note: It may take a few hours or even a couple of days to reflect on your profile. Mine took 2 days. For any doubts, feel free to follow and contact me.*
-
-
-Got it! Here's the updated version without mentioning the creator's name:
-
-
-## 🙏 Special Thanks
-
-This video really helped me understand how to make this work.
-
-🎥 **Watch it here**:
-[https://youtu.be/\_U52wzAJ2QE](https://youtu.be/_U52wzAJ2QE?si=M6QOhyzAgYgIX6JI)
-If you're facing any problems or want a better understanding, check it out!
-
 
 ## 📁 Project Structure
 
@@ -92,8 +91,16 @@ github-streak-back/
 └── README.md         ← This file
 ```
 
+## 🙏 Special Thanks
 
-## 🙌 Purpose Behind This
+This video really helped me understand how to make this work.
+
+🎥 **Watch it here**:
+[https://youtu.be/\_U52wzAJ2QE](https://youtu.be/_U52wzAJ2QE?si=M6QOhyzAgYgIX6JI)
+If you're facing any problems or want a better understanding, check it out!
+
+
+## 🎯 Purpose of This Project
 
 This project is intended strictly for **educational purposes**.
 
@@ -108,5 +115,5 @@ But the best way to maintain your streak is:
 
 ---
 
-**🧠 Mindful Reminder**
+**💡 Mindful Reminder**
 > Code every day not for the streak, but for the skills — the green squares will follow. ✅
