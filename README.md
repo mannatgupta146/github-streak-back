@@ -32,7 +32,7 @@ git clone git@github.com:your-username/github-streak-back.git
 cd github-streak-back
 ```
 
-> Replace `your-username` with your actual GitHub username.
+**Replace `your-username` with your actual GitHub username.**
 
 
 ### 3. **Initialize a Node.js Project**
